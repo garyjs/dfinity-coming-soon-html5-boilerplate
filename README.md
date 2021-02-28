@@ -1,4 +1,4 @@
-# Html5 Boilerplate for Dfinity 
+# Dfinity Coming Soon Html5 Boilerplate
 
 # Install Nodejs
 - sudo apt install curl
