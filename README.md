@@ -10,7 +10,7 @@
 
 # Clone the Repo 
 - git clone https://github.com/garyjs/dfinity-comming-soon-html5-boilerplate.git
-- cd html5boilerplate
+- cd dfinity-comming-soon-html5-boilerplate
 - npm install 
 
 # Deploy to Dfinity network
