@@ -9,7 +9,7 @@
 - sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)"
 
 # Clone the Repo 
-- git clone https://github.com/garyjs/Html5Boilerplate
+- git clone https://github.com/garyjs/dfinity-comming-soon-html5-boilerplate.git
 - cd html5boilerplate
 - npm install 
 
